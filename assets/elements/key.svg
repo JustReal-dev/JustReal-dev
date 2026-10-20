@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="160" viewBox="0 0 140 160" role="img" aria-label="Key: number, symbol, name, status and year">
+  <title>Key: number, symbol, name, status and year</title>
+  <rect x="1" y="1" width="138" height="158" rx="14" fill="#0B0B0B"/>
+  <text x="14" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="700" fill="#E8E3DB" fill-opacity="0.7">No.</text>
+  <circle cx="122" cy="23" r="5" fill="#E8E3DB"/>
+  <text x="70" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="#E8E3DB">Sy</text>
+  <text x="70" y="124" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" text-anchor="middle" fill="#E8E3DB">Name</text>
+  <text x="70" y="144" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" letter-spacing="1" text-anchor="middle" fill="#E8E3DB" fill-opacity="0.6">STATUS · YEAR</text>
+</svg>
